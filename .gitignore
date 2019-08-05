@@ -1,0 +1,7 @@
+*.wav
+*.reapeaks
+*.rpp
+*.rpp-bak
+.vscode*
+*.m4a
+*.mp3
